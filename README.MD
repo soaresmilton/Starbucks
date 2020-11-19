@@ -24,8 +24,8 @@
 </p>
 
 # Layout
-<div>
-  <video src="./images/Starbucks.mp4"></video>
+<div align="center">
+  <img src="images/Starbucks.gif" alt="demo-web" height="400">
 </div>
 
 # Utilizando a aplicação
